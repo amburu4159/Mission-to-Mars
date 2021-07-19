@@ -104,7 +104,7 @@ def hemispheres_images(browser):
     # return hemispheres
     browser.quit()
     # Return to main page
-    browser.back()
+    # browser.back()
 
 
 
